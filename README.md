@@ -7,7 +7,7 @@
 </p>
 
 <h2>Descrição do projeto</h2>
-<p align="justify">Projeto de um jogo da velha que permite a participação de 2 jogadores, um como o jogador X e outro como o jogador O. O principal objetivo desse jogo é determinar os casos de vitória e empate e informar isso dinamicamente ao usuário. </p>
+<p align="justify">Projeto do site de uma barbearia com 3 funcionalidades principais: a página inicial com as principais informações, a página de produtos com sucintas descrições e também a página de contatos, que fornece um completo formulário para que o usuário possa entrar em contato. </p>
 
 
 <h2>Tecnologias utilizadas</h2>
