@@ -23,7 +23,9 @@
 
 <div>
     <img src="https://github.com/brunalmucelli/Barbearia-Alura/blob/602e1e17967c02e7dacd1b4b1042d468594adaab/img/Barbearia%20Alura2.png"/>
-    <img src="https://github.com/brunalmucelli/Barbearia-Alura/blob/602e1e17967c02e7dacd1b4b1042d468594adaab/img/Barbearia%20Alura3.png"/>       <img src="https://github.com/brunalmucelli/Barbearia-Alura/blob/602e1e17967c02e7dacd1b4b1042d468594adaab/img/Barbearia%20Alura4.png"/>  
+    <img src="https://github.com/brunalmucelli/Barbearia-Alura/blob/602e1e17967c02e7dacd1b4b1042d468594adaab/img/Barbearia%20Alura3.png"/>       <img src="https://github.com/brunalmucelli/Barbearia-Alura/blob/602e1e17967c02e7dacd1b4b1042d468594adaab/img/Barbearia%20Alura4.png"/>
+    <img src="https://github.com/brunalmucelli/Barbearia-Alura/blob/e7fb2499e0c064e38aba2edca245a7ef164966b7/img/Barbearia%20Alura5.png"/>
+    <img src="https://github.com/brunalmucelli/Barbearia-Alura/blob/e7fb2499e0c064e38aba2edca245a7ef164966b7/img/Barbearia%20Alura6.png"/>
 </div>
 
 <h2>Objetivos do projeto - Educacional</h2>
