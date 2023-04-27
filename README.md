@@ -50,7 +50,8 @@
       <li>Utilização reset css</li>
     </ul>
   </li>
-  
+ </ul>
+ 
 <h2>Observações</h2>
 <p>Esse projeto foi desenvolvido utilizando as aulas da Alura como base e "Barbearia Alura" é um nome fantasia.</p>
 
