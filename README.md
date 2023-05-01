@@ -18,15 +18,10 @@
 </div>
 
 
-<h2>Imagens</h2>
+<h2>Funcionalidades</h2>
 <p>Segue algumas imagens representando as principais funcionalidades do projeto:</p>
 
-<div>
-    <img src="https://github.com/brunalmucelli/Barbearia-Alura/blob/602e1e17967c02e7dacd1b4b1042d468594adaab/img/Barbearia%20Alura2.png"/>
-    <img src="https://github.com/brunalmucelli/Barbearia-Alura/blob/602e1e17967c02e7dacd1b4b1042d468594adaab/img/Barbearia%20Alura3.png"/>       <img src="https://github.com/brunalmucelli/Barbearia-Alura/blob/602e1e17967c02e7dacd1b4b1042d468594adaab/img/Barbearia%20Alura4.png"/>
-    <img src="https://github.com/brunalmucelli/Barbearia-Alura/blob/e7fb2499e0c064e38aba2edca245a7ef164966b7/img/Barbearia%20Alura5.png"/>
-    <img src="https://github.com/brunalmucelli/Barbearia-Alura/blob/e7fb2499e0c064e38aba2edca245a7ef164966b7/img/Barbearia%20Alura6.png"/>
-</div>
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/121900958/235490746-931649e7-e414-4739-a35c-b578d8699d9a.gif)
 
 <h2>Objetivos do projeto - Educacional</h2>
 <p>Desenvolvi esse projeto visando aprender os conceitos fundamentais de HTML e CSS e os pontos mais importantes abordados foram foram:</p>
